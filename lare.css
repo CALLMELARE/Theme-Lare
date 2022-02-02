@@ -755,15 +755,11 @@ blockquote > h6::before {
 }
 
 .cm-comment {
-  color: #d81b60 !important;
-  font-style: oblique !important;
-  font-variant-ligatures: common-ligatures !important;
-  font-variation-settings: "slnt" -9;
+  color: #8d8d8d !important;
 }
 
 .cm-string {
-  color: #0d904f !important;
-  font-style: italic !important;
+  color: #b88700 !important;
   font-variant-ligatures: common-ligatures !important;
 }
 
